@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00dafaf9-cd31-4123-b340-f20c9cd323e3" name="Default Changelist" comment="" />
+    <list default="true" id="00dafaf9-cd31-4123-b340-f20c9cd323e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/Carnivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/DateOfBirth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Linton/PersonComposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Linton/DateOfBirthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Linton/MainAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Linton/MammalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Linton/NameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Linton/PersonCompositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Linton/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Assign3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/Carnivore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/DateOfBirth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/MainApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/Mammal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/Name.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Linton/PersonComposition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Assign3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/Linton/DateOfBirthTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/Linton/MainAppTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +46,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YZT9QC3Ng9cao8G7ntGJPRDNJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -94,7 +130,7 @@
       <updated>1583148964177</updated>
       <workItem from="1583148965614" duration="58000" />
       <workItem from="1583229606690" duration="5462000" />
-      <workItem from="1583303259160" duration="6781000" />
+      <workItem from="1583303259160" duration="6893000" />
     </task>
     <servers />
   </component>
@@ -110,25 +146,25 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="247" key="FileChooserDialogImpl/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583231049258" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1583307263871">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1583318751295">
+      <screen x="1280" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583307263871" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583149024288" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1583307263869">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583318751295" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1583318751295">
+      <screen x="1280" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583307263869" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583149024288" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1583307263869">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583318751295" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1583318751295">
+      <screen x="1280" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583307263869" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583149024288" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1583307263870">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583318751295" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1583318751295">
+      <screen x="1280" y="0" width="1280" height="984" />
     </state>
     <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@0.0.1280.984" timestamp="1583307263870" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583149024288" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/1280.0.1280.984@1280.0.1280.984" timestamp="1583318751295" />
   </component>
 </project>
